@@ -1,0 +1,10 @@
+.chart {
+  height: 650px;
+}
+
+
+.bar {
+    height: 10px;
+    background-color: blue;
+    margin-top: 1px;
+}
